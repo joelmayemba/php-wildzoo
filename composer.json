@@ -1,8 +1,15 @@
 {
+<<<<<<< Updated upstream
     "name": "php-wildzoo/app",
     "autoload": {
         "psr-4": {
             "PhpWildzoo\\App\\": "src/"
+=======
+    "name": "execu/php-wildzoo",
+    "autoload": {
+        "psr-4": {
+            "Execu\\PhpWildzoo\\": "src/"
+>>>>>>> Stashed changes
         }
     },
     "authors": [
