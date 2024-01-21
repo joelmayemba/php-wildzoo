@@ -1,15 +1,14 @@
 {
-    "name": "wildcodeschool/wildzoo",
-    "description": "POO training for PHP students",
+    "name": "php-wildzoo/app",
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "PhpWildzoo\\App\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Sylvain Blondeau",
-            "email": "sylvain.blondeau@wildcodeschool.com"
+            "name": "Joël MAYEMBA",
+            "email": "joelmayemba@gmail.com"
         }
     ],
     "require": {}
